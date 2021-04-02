@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ps9310
+- 👀 I’m interested in mobile & web development
+- 🌱 I’m currently learning flutter and AI & ML with python
+- 💞️ I’m looking to collaborate on AI & ML business applications
